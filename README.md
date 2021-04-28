@@ -1,2 +1,2 @@
-# voice-CNN-classifier
-A voice CNN classifier
+# voice-DTW-classifier
+A voice DTW classifier
